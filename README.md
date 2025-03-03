@@ -10,6 +10,8 @@ Projeto Avaliativo FIAP - Cognitive Environments - 7DTS
 | Yuko Suga                            | 355013 |
 
 ---
+# Repositório
+https://github.com/rodrigoro86/fiap_face_text_extraction
 
 ## Definição
 
